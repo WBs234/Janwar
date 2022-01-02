@@ -1,5 +1,5 @@
 import os
-os.system(clear)
+os.system("clear")
 import time
 print("\033[31m░░░░░░░░░░░░░░░░▓██████▓▓▓░░░░░░░░░░░░░░░")
 time.sleep(0.2)
